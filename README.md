@@ -42,7 +42,8 @@ PROCEDURE:
 
 
 ### Wave form:
-![half wave](https://github.com/user-attachments/assets/300c02b8-642b-41f8-9677-3ef1dcbd8360)
+<img width="1836" height="872" alt="image" src="https://github.com/user-attachments/assets/8e27b23f-fd26-4aab-af48-f7dcb1f9dd33" />
+
 
 ### Tabular coloumn:
 <table border="1" cellspacing="0" cellpadding="6">
@@ -78,7 +79,9 @@ PROCEDURE:
 
 ### Wave form:
 
-![full wave form](https://github.com/user-attachments/assets/bc4ae188-becd-4780-a45e-6e59897a4788)
+<img width="1866" height="931" alt="image" src="https://github.com/user-attachments/assets/ca149f59-c10f-42ba-84e8-c0be4110656f" />
+
+
 
 ### Tabular coloumn:
 <table border="1" cellspacing="0" cellpadding="6">
